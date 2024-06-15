@@ -1,2 +1,2 @@
-# Codecademy_Python3
-My projects from the Codecademy Python3 course
+# Codecademy Python3
+My projects from my Codecademy Python3 course.
